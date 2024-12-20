@@ -1,0 +1,13 @@
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\FormÖrnek3\FormÖrnek3\bin\Debug\FormÖrnek3.exe.config
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\FormÖrnek3\FormÖrnek3\bin\Debug\FormÖrnek3.exe
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\FormÖrnek3\FormÖrnek3\bin\Debug\FormÖrnek3.pdb
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\FormÖrnek3\FormÖrnek3\obj\Debug\FormÖrnek3.csprojResolveAssemblyReference.cache
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\FormÖrnek3\FormÖrnek3\obj\Debug\FormÖrnek3.Form1.resources
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\FormÖrnek3\FormÖrnek3\obj\Debug\FormÖrnek3.Form2.resources
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\FormÖrnek3\FormÖrnek3\obj\Debug\FormÖrnek3.Properties.Resources.resources
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\FormÖrnek3\FormÖrnek3\obj\Debug\FormÖrnek3.csproj.GenerateResource.Cache
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\FormÖrnek3\FormÖrnek3\obj\Debug\FormÖrnek3.exe
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\FormÖrnek3\FormÖrnek3\obj\Debug\FormÖrnek3.pdb
+C:\Users\user\Desktop\10-M\FormÖrnek3\FormÖrnek3\bin\Debug\FormÖrnek3.exe.config
+C:\Users\user\Desktop\10-M\FormÖrnek3\FormÖrnek3\obj\Debug\FormÖrnek3.exe
+C:\Users\user\Desktop\10-M\FormÖrnek3\FormÖrnek3\obj\Debug\FormÖrnek3.pdb
